@@ -1,0 +1,9 @@
+site_name: макскик лох
+site_url: https://timurhab-rgb.github.io/project1/
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
