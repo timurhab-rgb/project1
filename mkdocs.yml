@@ -1,7 +1,7 @@
 # Основные метаданные сайта
 site_name: Мой Блог
-# site_url: https://timurka-rgb.github.io/project1/
-site_url: https://timurka-rgb.github.io/project1/
+# site_url: https://timurhab-rgb.github.io/project1/
+site_url: https://timurhab-rgb.github.io/project1/
 site_author: Тимур
 
 # Copyright в футере (только твой текст, без лишнего)
@@ -55,8 +55,8 @@ extra:
       link: https://t.me/@mirtum06 # ← замени на реальный
 
 # Репозиторий + кнопка "Редактировать"
-repo_url: https://github.com/timurha-rgb/project1
-repo_name: timurka-rgb/project1
+repo_url: https://github.com/timurhab-rgb/project1
+repo_name: timurhab-rgb/project1
 edit_uri: edit/main/docs/
 
 # Следить за изменениями
