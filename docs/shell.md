@@ -1,4 +1,4 @@
-#page2
+#обо мне
 
 -list
 -list 2
