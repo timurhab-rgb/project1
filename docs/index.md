@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Саламалейкум 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Всем кимпинтяо и обоюдно, данный сайт служит моей визиткой для работадателей, а так же площадкой для стеба над максиком.
 
-## Commands
+## :)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Justin, Lukas, Angty berds, Hokins, Зайчик Джуди Хопс, шершень, Чейз, лис Ник Уайлд, Артем Котенко, Губка Боб.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Обратная связь
+
+Никогда не пишите мне, черти!!!

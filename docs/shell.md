@@ -1,12 +1,12 @@
-#обо мне
+# Обо мне
 
--list
--list 2
+## Давайте знакомиться
 
-Привет!
+Меня зовут Тимур, я студент 2 курса высшей инженерной школы Российского универститета транспорта (МИИТ).
 
-!!! note
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+## Полезные ссылки
+
+- Курсы, которые я прошёл и прохожу [Stepik](https://stepik.org/users/659009172/)
+- Моя страница на [GitHub](https://github.com/timurhab-rgb)
+- Для связи: [Telegram](https://t.me/mirtum06)
