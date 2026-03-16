@@ -1,10 +1,9 @@
 # Основные метаданные сайта
-site_name: Веном
-# site_url: https://timurhab-rgb.github.io/project1/
+site_name: Мое резюме
 site_url: https://timurhab-rgb.github.io/project1/
 site_author: Тимур
 
-# Copyright в футере (только твой текст, без лишнего)
+
 copyright: © 2026 Хабибулин Тимур
 
 # Тема оформления
@@ -52,7 +51,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/musecollaboration
     - icon: fontawesome/brands/telegram
-      link: https://t.me/@mirtum06 # ← замени на реальный
+      link: https://t.me/@mirtum06 
 
 # Репозиторий + кнопка "Редактировать"
 repo_url: https://github.com/timurhab-rgb/project1
